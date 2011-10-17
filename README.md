@@ -1,0 +1,1 @@
+## Sample Code for a blog post: http://ifandelse.com/?p=136
