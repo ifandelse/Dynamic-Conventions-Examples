@@ -1,0 +1,13 @@
+%h2 Customer
+%div
+  %span ID: &nbsp;
+  %span= id
+
+%div
+  %span Name: &nbsp;
+  %span= name
+
+%div
+  %h4 Address: &nbsp;
+  %div= address.street
+  %div= address.city + ", " + address.state + " " + address.zip
